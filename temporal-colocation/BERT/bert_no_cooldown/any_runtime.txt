@@ -1,0 +1,8 @@
+bert,85824
+bert,59593
+bert,59613
+bert,59718
+bert,59613
+bert,59697
+bert,59658
+bert,59583

@@ -1,0 +1,11 @@
+sgemm,447577
+sgemm,445105
+sgemm,444311
+sgemm,444506
+sgemm,444603
+sgemm,444478
+sgemm,444657
+sgemm,444349
+sgemm,453249
+sgemm,444283
+sgemm,444249
