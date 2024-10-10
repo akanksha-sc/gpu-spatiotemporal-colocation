@@ -10,7 +10,7 @@ We also present experiments that introduce cooldown periods between different wo
 
 Paths to files:
 
-- Report: gpu-spatiotemporal-colocation/report_gpu_temporal_spatial_colocation.pdf
+- Report: gpu-spatiotemporal-colocation/gpu_temporal_spatial_colocation.pdf
 - Poster Presentation: gpu-spatiotemporal-colocation /poster-presentation.jpg
 - Spatial Colocation Simulation Results: gpu-spatiotemporal-colocation/spatial-colocation
 - Temporal Colocation Simulation Results: gpu-spatiotemporal-colocation/temporal-colocation
